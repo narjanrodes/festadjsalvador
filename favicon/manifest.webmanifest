@@ -1,0 +1,13 @@
+{
+  "name": "Festa DJ Salvador",
+  "short_name": "Festa DJ Salvador",
+  "description": "DJ, sonorização e iluminação profissional para eventos em Salvador - BA.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0812",
+  "theme_color": "#0A0812",
+  "icons": [
+    { "src": "/favicon/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/favicon/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
